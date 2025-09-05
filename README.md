@@ -49,3 +49,6 @@ Umbral	TPR	FPR
 0,4	0,0	1,0
 
 
+Trazando la TPR frente a la FPR
+
+
