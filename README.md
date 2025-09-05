@@ -51,4 +51,7 @@ Umbral	TPR	FPR
 
 Trazando la TPR frente a la FPR
 
+<img width="991" height="866" alt="image" src="https://github.com/user-attachments/assets/ca932075-8b23-4273-88ef-cd3ad9febe89" />
+
+
 
